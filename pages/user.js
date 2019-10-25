@@ -73,9 +73,6 @@ const User = props => {
     getLangData();
     getRepoData();
 
-    // setUserData(mockUserData);
-    // setLangData(mockLangData);
-    // setRepoData(mockRepoData);
   }, []);
 
   return (
