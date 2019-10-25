@@ -1,0 +1,19 @@
+{
+  "name": "git-data",
+  "version": "1.0.0",
+  "description": "A more user friendly way to see Github Statistics.",
+  "main": "next.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewYee92/Git-Data.git"
+  },
+  "author": "Matthew Yee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewYee92/Git-Data/issues"
+  },
+  "homepage": "https://github.com/MatthewYee92/Git-Data#readme"
+}
