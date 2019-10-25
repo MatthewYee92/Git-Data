@@ -2,7 +2,8 @@
 
 A more friendly look into your GitHub Profile statistics! 
 
-[demo]()
+![demo](https://raw.githubusercontent.com/matthewyee92/Git-Data/master/static/og.png)
+
 
 Built with:
 
