@@ -1,8 +1,8 @@
-# OctoProfile
+# Git-Data
 
-A nicer look at your GitHub Profile! With charts!
+A more friendly look into your GitHub Profile statistics! 
 
-![demo](https://raw.githubusercontent.com/bchiang7/octoprofile/master/static/og.png)
+[demo]()
 
 Built with:
 
@@ -12,19 +12,6 @@ Built with:
 - [React Flip Move](https://github.com/joshwcomeau/react-flip-move)
 - [Styled Components](https://www.styled-components.com/)
 
-## Getting Started
-
-1. Install dependencies
-
-   ```bash
-   yarn
-   ```
-
-2. Fire up the server and watch files
-
-   ```bash
-   npm run dev
-   ```
 
 ## Deployment
 
