@@ -1,6 +1,6 @@
 # Git-Data
 
-A more friendly look into your GitHub Profile statistics! 
+A more user friendly look into your GitHub Profile statistics! 
 
 ![demo](https://raw.githubusercontent.com/matthewyee92/Git-Data/master/static/og.png)
 
